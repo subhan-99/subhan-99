@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Subhan
 
-<!--
-**subhan-99/subhan-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Developer
 
-Here are some ideas to get you started:
+I am a BCA graduate and a Java Developer interested in building backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Java
+- OOPs
+- Collections
+- Java 8
+- Spring Boot
+- MySQL
+- Git & GitHub
+- Linux
+
+### 📚 Currently Learning
+
+- DSA with Java
+- Cloud Computing
+- Docker
+- AWS
+
+### 🚀 Projects
+
+- Employee Management System
+- E-commerce Application
+- Fintech Application
+
+### 🎯 Goal
+
+To become a strong Java Backend Developer and continuously improve my programming and problem-solving skills.
